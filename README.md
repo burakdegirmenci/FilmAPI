@@ -152,6 +152,6 @@ Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için `LICEN
 
 ## 📞 İletişim
 
-Proje Sahibi - [@GITHUB_KULLANICI_ADI](https://github.com/GITHUB_KULLANICI_ADI)
+Proje Sahibi - [@burakdegirmenci](https://github.com/burakdegirmenci)
 
-Proje Linki: [https://github.com/GITHUB_KULLANICI_ADI/FilmAPI](https://github.com/GITHUB_KULLANICI_ADI/FilmAPI) 
+Proje Linki: [https://github.com/burakdegirmenci/FilmAPI](https://github.com/burakdegirmenci/FilmAPI) 
